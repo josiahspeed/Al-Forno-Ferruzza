@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #ffa012;
+  background: #5092CC;
   color: #fff;
 }
 
@@ -125,7 +125,6 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 992px) {
   #header {
     top: 0;
-    background: rgba(26, 24, 22, 0.85);
   }
 }
 
@@ -175,7 +174,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu .book-a-table a:hover {
-  background: #ffa012;
+  background: #512994;
   color: #fff;
 }
 
@@ -188,7 +187,7 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
   visibility: hidden;
   padding: 10px 0;
-  background: #fff;
+  background: #512994;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: ease all 0.3s;
 }
@@ -264,6 +263,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9998;
   border: 0;
   background: none;
+  color: #512994;
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #fff;
+  color: #512994;
 }
 
 .mobile-nav {
@@ -327,7 +327,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav .book-a-table a:hover {
-  background: #ffa012;
+  background: #5092C9;
   color: #fff;
 }
 
@@ -968,7 +968,7 @@ section {
   font-size: 26px;
   font-weight: 600;
   margin-bottom: 20px;
-  color: #433f39;
+  color: #512994;
 }
 
 .specials .details p {
@@ -1180,7 +1180,7 @@ section {
 }
 
 .book-a-table .php-email-form button[type="submit"]:hover {
-  background: #ffa012;
+  background: #5092C9;
 }
 
 /*--------------------------------------------------------------
@@ -1574,8 +1574,8 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #35322d;
-  color: #fff;
+  background: #fff;
+  color: #5092C9;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
@@ -1584,7 +1584,7 @@ section {
 #footer h3 {
   font-size: 36px;
   font-weight: 700;
-  color:#5092C9;
+  color:#512994;
   position: relative;
   padding: 0;
   margin: 0 0 15px 0;
@@ -1604,7 +1604,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #46423b;
+  background: #5092C9;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
