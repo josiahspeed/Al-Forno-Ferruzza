@@ -1,6 +1,6 @@
 /**
-* Template Name: Delicious - v2.1.0
-* Template URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
+* Template Name: Dragonfly Cafe & Bakery - v2.1.0
+* Template URL: https://bootstrapmade.com/Dragonfly Cafe & Bakery-free-restaurant-bootstrap-theme/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
@@ -819,7 +819,7 @@ section {
   display: block;
   font-size: 28px;
   font-weight: 700;
-  color: #ffcf88;
+  color: #5092C9;
 }
 
 .why-us .box h4 {
@@ -918,6 +918,7 @@ section {
   z-index: 3;
   padding: 0 10px;
   font-weight: 600;
+  color: #512994;
 }
 
 .menu .menu-ingredients {
@@ -1539,7 +1540,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-  background: #ffb03b;
+  background: #5092C9;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1548,7 +1549,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #ffa012;
+  background: #5092C9;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1583,7 +1584,7 @@ section {
 #footer h3 {
   font-size: 36px;
   font-weight: 700;
-  color: #ffb03b;
+  color:#5092C9;
   position: relative;
   padding: 0;
   margin: 0 0 15px 0;
@@ -1616,7 +1617,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #ffb03b;
+  background: #5092C9;
 }
 
 #footer .copyright {
