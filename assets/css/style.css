@@ -930,19 +930,6 @@ section {
   color: #948c81;
 }
 
-.menu-details {
-  padding-right: 10px;
-  background: #fff;
-  position: relative;
-  z-index: 3;
-  font-weight: 700;
-  color: #512994;
-}
-
-.menu-details a:hover {
-  color: #5092C9;
-}
-
 /*--------------------------------------------------------------
 # Specials
 --------------------------------------------------------------*/
