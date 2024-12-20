@@ -779,10 +779,10 @@ a.has-text-danger:hover, a.has-text-danger:focus {
   background-color: #f14668 !important; }
 
 .has-text-black-bis {
-  color: #121212 !important; }
+  color: #1A1A1A !important; }
 
 .has-background-black-bis {
-  background-color: #121212 !important; }
+  background-color: #1A1A1A !important; }
 
 .has-text-black-ter {
   color: #242424 !important; }
@@ -6619,6 +6619,8 @@ label.panel-block {
   display: flex;
   flex-direction: column;
   justify-content: space-between; }
+  background: url("") no-repeat center center;
+  background-size: cover;
   .hero .navbar {
     background: none; }
   .hero .tabs ul {

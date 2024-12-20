@@ -71,7 +71,7 @@ a:hover {
 
 /* Navigation */
 nav {
-    background-color: #121212; /* Dark grey background */
+    background-color: #1A1A1A; /* Dark grey background */
     padding: 1rem 2rem;
     position: fixed;
     width: 100%;
@@ -208,7 +208,7 @@ nav ul li a:hover {
 /* Experience Section */
 #experience {
     padding: 5rem 2rem;
-    background: #121212; /* Very dark grey background */
+    background: #1A1A1A; /* Very dark grey background */
 }
 
 #experience h2 {
@@ -306,7 +306,7 @@ nav ul li a:hover {
 
 /* Skills Section */
 #skills {
-    background: #121212;
+    background: #1A1A1A;
     padding: 5rem 2rem;
 }
 
@@ -368,7 +368,7 @@ nav ul li a:hover {
 
 /* Contact Section */
 #contact {
-    background: #121212;
+    background: #1A1A1A;
     padding: 5rem 2rem;
 }
 
